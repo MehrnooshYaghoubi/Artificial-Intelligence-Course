@@ -1,4 +1,4 @@
-# Artificial Intelligence Course — Fall 1405
+# Artificial Intelligence Course — Fall 2026
 
 Course project repository for the **Artificial Intelligence** course, **Fall semester 2026**
 
